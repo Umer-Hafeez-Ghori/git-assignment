@@ -1,2 +1,2 @@
-# This is Alpha feature layout git-assignment
+# This is Alpha feature layout
 
